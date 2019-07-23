@@ -1,3 +1,17 @@
+---
+title: Python 202
+layout: post
+weight: 10
+hidden: true
+---
+​
+**Course**: Data Science <br/>
+**Mod**: 1 <br/>
+**Topic**: Python 202 <br/>
+**Amount of time**: 1.5 hours <br/>
+**Author**: Alan Hong
+
+Ported and reformated from the ds-lesson-starters repository. Original version [here](https://github.com/learn-co-curriculum/ds-lessons-starter/tree/master/lesson-plans-by-mod/Module-1/python-202-adv-loops-functions).  
 
 # Teacher Notes
 
